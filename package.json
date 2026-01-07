@@ -1,5 +1,5 @@
 {
-  "name": "gis-dataconversion-mcp",
+  "name": "@iflow-mcp/ronantakizawa_gis-dataconversion-mcp",
   "version": "1.0.3",
   "description": "An MCP server for converting GIS data in different formats",
   "type": "module",
